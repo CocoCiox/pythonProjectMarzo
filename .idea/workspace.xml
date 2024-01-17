@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f27d5b4c-869e-47ee-b70d-e3e3f983bf99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f27d5b4c-869e-47ee-b70d-e3e3f983bf99" name="Changes" comment="che data analyst">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +56,17 @@
       <option name="presentableId" value="Default" />
       <updated>1705418411454</updated>
       <workItem from="1705418417312" duration="1622000" />
-      <workItem from="1705482281669" duration="6235000" />
+      <workItem from="1705482281669" duration="7483000" />
     </task>
+    <task id="LOCAL-00001" summary="che data analyst">
+      <option name="closed" value="true" />
+      <created>1705490888865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705490888865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="che data analyst" />
+    <option name="LAST_COMMIT_MESSAGE" value="che data analyst" />
   </component>
 </project>
